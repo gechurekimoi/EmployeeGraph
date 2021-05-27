@@ -1,0 +1,8 @@
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\bin\Debug\netstandard2.0\EmployeeAssignment.deps.json
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\bin\Debug\netstandard2.0\EmployeeAssignment.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\bin\Debug\netstandard2.0\EmployeeAssignment.pdb
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\obj\Debug\netstandard2.0\EmployeeAssignment.AssemblyInfoInputs.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\obj\Debug\netstandard2.0\EmployeeAssignment.AssemblyInfo.cs
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\obj\Debug\netstandard2.0\EmployeeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\obj\Debug\netstandard2.0\EmployeeAssignment.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeAssignment\obj\Debug\netstandard2.0\EmployeeAssignment.pdb

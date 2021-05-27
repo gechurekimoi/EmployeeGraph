@@ -1,0 +1,17 @@
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeConsoleApplication.exe
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeConsoleApplication.deps.json
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeConsoleApplication.runtimeconfig.json
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeConsoleApplication.runtimeconfig.dev.json
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeConsoleApplication.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeConsoleApplication.pdb
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.csprojAssemblyReference.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.AssemblyInfo.cs
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.csproj.CopyComplete
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.pdb
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\obj\Debug\netcoreapp3.1\EmployeeConsoleApplication.genruntimeconfig.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeAssignment.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\bin\Debug\netcoreapp3.1\EmployeeAssignment.pdb

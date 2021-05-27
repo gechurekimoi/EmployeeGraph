@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Re/PLyeuz9w0HIuTvKTFecNQMejKiEynQ4qTNtu4dvD3S5l2+vem4bgVJ9CBisFMwM66eHc0BC0RHBRIHgEPFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gechu\\source\\repos\\EmployeeHierarchy\\EmployeeConsoleApplication\\EmployeeConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gechu\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",
+    "C:\\Users\\gechu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

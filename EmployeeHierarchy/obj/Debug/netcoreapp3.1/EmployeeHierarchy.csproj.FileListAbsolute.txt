@@ -1,0 +1,8 @@
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\netcoreapp3.1\EmployeeHierarchy.deps.json
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\netcoreapp3.1\EmployeeHierarchy.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\netcoreapp3.1\EmployeeHierarchy.pdb
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.pdb
