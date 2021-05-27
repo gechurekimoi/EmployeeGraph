@@ -12,6 +12,8 @@ C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\obj\Debug\UnitTe
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\obj\Debug\UnitTestEmployees.csproj.CopyComplete
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\obj\Debug\UnitTestEmployees.dll
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\obj\Debug\UnitTestEmployees.pdb
+C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\EmployeeAssignment.dll
+C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\EmployeeAssignment.pdb
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\CsvHelper.dll
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\Microsoft.Bcl.HashCode.dll
@@ -28,5 +30,3 @@ C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\System
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\EmployeeAssignment.dll
-C:\Users\gechu\source\repos\EmployeeHierarchy\UnitTestEmployees\bin\Debug\EmployeeAssignment.pdb

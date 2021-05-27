@@ -9,10 +9,7 @@ namespace EmployeeConsoleApplication
         {
             Console.WriteLine("Hello World!");
 
-
-            Employee hierarchy = new Employee(@"C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\test6.csv");
-
-            Console.ReadLine();
+            Employee employee = new Employee(@"C:\Users\gechu\source\repos\EmployeeHierarchy\EmployeeConsoleApplication\testAllManagersAreEmployees.csv");
 
 
         }

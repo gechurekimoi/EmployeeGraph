@@ -1,5 +1,4 @@
 ﻿using EmployeeAssignment;
-using EmployeeAssignment.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
@@ -10,7 +9,7 @@ using System.Threading.Tasks;
 namespace UnitTestEmployees
 {
     [TestClass]
-    public class EmployeeUnitTest
+    public class EmployeeUnitTests
     {
         public Employee hierarchy { get; set; }
 
@@ -91,6 +90,7 @@ namespace UnitTestEmployees
 
             Assert.IsFalse(hierarchy.AllManagersAreEmployees());
         }
+
 
     }
 }
